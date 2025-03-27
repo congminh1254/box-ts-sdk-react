@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.2fe63ec5.css",
-    "main.js": "/static/js/main.353b5253.js",
-    "index.html": "/index.html"
+    "main.css": "/congminh1254/box-ts-sdk-react/static/css/main.2fe63ec5.css",
+    "main.js": "/congminh1254/box-ts-sdk-react/static/js/main.52465131.js",
+    "index.html": "/congminh1254/box-ts-sdk-react/index.html"
   },
   "entrypoints": [
     "static/css/main.2fe63ec5.css",
-    "static/js/main.353b5253.js"
+    "static/js/main.52465131.js"
   ]
 }
